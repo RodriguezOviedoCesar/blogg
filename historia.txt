@@ -3,6 +3,11 @@ Esta es mi
 una linea
 
 y esta otra ms
+hubo un error 
+pero no se 
+por que no 
+me dejaba 
+escribir em vim
 
 sd
 sdds
